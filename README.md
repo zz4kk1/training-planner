@@ -34,5 +34,5 @@
 1. Убедитесь, что у вас установлен Python 3.6 или выше.
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/FanFanich/trainin_planner-main.git
+   git clone https://github.com/zz4kk1/training-planner.git
    cd training_planner
